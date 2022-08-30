@@ -18,10 +18,13 @@ For this tutorial you can either use GitHub Desktop or the Command Line.
 
 ## Steps:
 
-## 1.Fork this repository 🍴
+## 1. Fork this repository 🍴
+<img align="right" width="300" alt="Fork" src="assets/fork.png" />
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
+
+
 
 ## 2. Clone the repository 👯
 
