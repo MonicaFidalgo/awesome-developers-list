@@ -91,11 +91,11 @@ git checkout -b adding-ada-lovelace
 
 ## 4. Add your name and link and commit your changes 📝
 
-Now open `AwesomeDevelopers.md` file in a text editor and at the end of the file, add your name, role and a link to your website, github, etc
+Now open `AwesomeDevelopers.md` file in a text editor and at the end of the file, add your name, role (if you prefer) and a link to your website, github, etc
 
 #### Alternatively, you can edit the file on GitHub itself
 
-<img width="300" alt="Edit File on Github" src="assets/edit-file.png" />
+<img alt="Edit File on Github" src="assets/edit-file.png" />
 
 Example:
 
@@ -142,7 +142,7 @@ Go now to the main repository on gitHub, you should be able to see something sim
 <img alt="Compare pull request" src="assets/compare-pullrequest.png"/>
 
 
-Now you can create a pr, by adding a description and then submit the pull request.
+Now you can create a pr, by adding a description and then submit the pull request. You can also check the changes that you did on the bottom, the before and the after
 
 <img alt="Create pull request" src="assets/create-pullrequest.png"/>
 
