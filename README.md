@@ -4,7 +4,7 @@
   Awesome Developers List 🚀
 </h2>
 <div align="center">
-  <img alt="Demo" src="open-source-first-issue.png" />
+  <img alt="Demo" src="assets/first-contribution-open-source.png" />
 </div>
 
 
