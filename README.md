@@ -15,8 +15,10 @@ This project is super simple and begginer friendly to allow everyone to start to
 For this tutorial you can either use GitHub Desktop or the Command Line.
 
 #### If you don't have git on your machine, you can [install it](https://help.github.com/articles/set-up-git/).
+<br />
 
 ## Steps:
+<br />
 
 ## 1. Fork this repository 🍴
 
@@ -27,6 +29,7 @@ Fork this repository by clicking on the <strong>fork</strong> button on the top 
 
 This will create a copy of this repository in your <strong>account</strong>.
 
+<br />
 
 ## 2. Clone the repository 👯
 
@@ -56,7 +59,7 @@ Don't forget to change  `<your_github_username_here>` to your GitHub username.
 
 Git clone allows you to copying the contents of the awesome-developers-list repository on GitHub <strong>to your computer</strong>.
 
-
+<br />
 
 ## 3. Create a branch 🌳
 
@@ -80,13 +83,25 @@ git checkout -b adding-ada-lovelace
 
 (You can start the name of the branch with _adding_ , to be more consistent)
 
-#### You can also create a branch on your gitHub repository
+#### Alternatively, you can also create a branch directly on your GitHub repository
 
 <img width="300" alt="Branch" src="assets/create-branch.png" />
 
+<br />
+
 ## 4. Add your name and link and commit your changes 📝
 
-Now open `AwesomeDevelopers.md` file in a text editor, add your name to the end of the file
+Now open `AwesomeDevelopers.md` file in a text editor and at the end of the file, add your name, role and a link to your website, github, etc
+
+#### Alternatively, you can edit the file on GitHub itself
+
+<img width="300" alt="Edit File on Github" src="assets/edit-file.png" />
+
+Example:
+
+```
+[Mónica Fidalgo - Vue|React Developer](https://github.com/MonicaFidalgo/)
+```
 
 To check if your changes are being tracked you can type `git status`, and you'll see if there are any changes.
 
@@ -104,6 +119,10 @@ git commit -m "Add <your-name> to Developers list"
 
 replacing `<your-name>` with your name.
 
+
+#### Alternatively, you can commit on GitHub itself
+<br />
+
 ## 5. Push changes to GitHub 🚀 
 
 Push your changes using the command `git push`:
@@ -113,6 +132,8 @@ git push origin <add-your-branch-name>
 ```
 
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+
+<br />
 
 ## 6. Finally, submit your changes for review 👀 
 
