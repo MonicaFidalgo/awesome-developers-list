@@ -33,7 +33,9 @@ This will create a copy of this repository in your <strong>account</strong>.
 
 Now <strong>clone</strong> the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
-<img width="300" alt="Clone" src="assets/clone.png" "/>
+<img width="300" alt="Clone" src="assets/clone.png"/>
+
+<img width="300" alt="Copy" src="assets/copy.png"/>
 
 Open a terminal and run the following git command:
 
@@ -114,12 +116,17 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 ## 6. Finally, submit your changes for review 👀 
 
-Go to your repository on GitHu and click on a button that says  `Compare & pull request`
+Go now to the main repository on gitHub, you should be able to see something similar
+
+<img width="300" alt="Compare pull request" src="assets/compare-pullrequest.png"/>
 
 
-Now you can submit the pull request.
+Now you can create a pr, by adding a description and then submit the pull request.
+
+<img width="300" alt="Create pull request" src="assets/create-pullrequest.png"/>
 
 
 After that, I will check your pr and merge it to the main branch!
 
-Congrats! You made your first contribution to an open source project🥳🥳
+
+## Congrats! You made your first contribution to an open source project🥳🥳
