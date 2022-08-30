@@ -118,12 +118,12 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 Go now to the main repository on gitHub, you should be able to see something similar
 
-<img width="300" alt="Compare pull request" src="assets/compare-pullrequest.png"/>
+<img alt="Compare pull request" src="assets/compare-pullrequest.png"/>
 
 
 Now you can create a pr, by adding a description and then submit the pull request.
 
-<img width="300" alt="Create pull request" src="assets/create-pullrequest.png"/>
+<img alt="Create pull request" src="assets/create-pullrequest.png"/>
 
 
 After that, I will check your pr and merge it to the main branch!
