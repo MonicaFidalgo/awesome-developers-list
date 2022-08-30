@@ -49,12 +49,12 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```
-git clone https://github.com/<your_github_username_here>/awesome-webdevelopers-list
+git clone https://github.com/<your_github_username_here>/awesome-developers-list
 ```
 
 Don't forget to change  `<your_github_username_here>` to your GitHub username.
 
-Git clone allows you to copying the contents of the awesome-webdevelopers-list repository on GitHub <strong>to your computer</strong>.
+Git clone allows you to copying the contents of the awesome-developers-list repository on GitHub <strong>to your computer</strong>.
 
 
 
@@ -63,7 +63,7 @@ Git clone allows you to copying the contents of the awesome-webdevelopers-list r
 Change to the repository directory on your computer:
 
 ```
-cd awesome-webdevelopers-list
+cd awesome-developers-list
 ```
 
 Now create a branch using the `git checkout` command:
@@ -99,7 +99,7 @@ git add AwesomeDevelopers.md
 Now commit those changes using the `git commit` command:
 
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Add <your-name> to Developers list"
 ```
 
 replacing `<your-name>` with your name.
