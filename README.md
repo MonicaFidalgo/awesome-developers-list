@@ -15,6 +15,8 @@ This project is super simple and begginer friendly to allow everyone to start to
 For this tutorial you can either do it directly on GitHub or you can use the Command Line.
 
 #### If you don't have git on your machine, you can [install it](https://help.github.com/articles/set-up-git/).
+
+#### If you prefer to do it on GitHub, check [Introduction to GitHub](https://github.com/skills/introduction-to-github)
 <br />
 
 ## Steps:
