@@ -22,7 +22,7 @@ For this tutorial you can either do it directly on GitHub or you can use the Com
 ## Steps:
 <br />
 
-##✨ Step 1: Fork this repository 🍴
+## ✨ Step 1: Fork this repository 🍴
 
 
 Fork this repository by clicking on the <strong>fork</strong> button on the top of this page.
@@ -33,7 +33,7 @@ This will create a copy of this repository in your <strong>account</strong>.
 
 <br />
 
-##✨ Step 2: Clone the repository 👯
+## ✨ Step 2: Clone the repository 👯
 
 Git clone allows you to copying the contents of the awesome-developers-list repository on GitHub <strong>to your computer</strong>.
 
@@ -68,7 +68,7 @@ Don't forget to change  `<your_github_username_here>` to your GitHub username.
 <br />
 
 
-##✨ Step 3: Create a branch 🌳
+## ✨ Step 3: Create a branch 🌳
 
 ### 🤖 With command line:
 
@@ -102,7 +102,7 @@ Alternatively, you can also create a branch directly on your GitHub repository
 
 <br />
 
-##✨ Step 4: Add your name and link and commit your changes 📝
+## ✨ Step 4: Add your name and link and commit your changes 📝
 
 ### 🤖 With command line:
 
@@ -143,7 +143,7 @@ And then commit the changes
 <br />
 
 
-##✨ Step 5: Push changes to GitHub 🚀 
+## ✨ Step 5: Push changes to GitHub 🚀 
 
 The git push command is used to upload local repository content to a remote repository.
 
@@ -161,7 +161,7 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 <br />
 
-##✨ Step 6: Finally, submit your changes for review 👀 
+## ✨ Step 6: Finally, submit your changes for review 👀 
 
 Go now to the main repository on gitHub, you should be able to see something similar
 
