@@ -8,3 +8,4 @@
 - [Raquel Albuquerque 🔭🌠 ](https://github.com/raquelmgalbuquerque)
 - [João-Martinho] (https://www.linkedin.com/in/joaormartinho/)
 - [Gonçalo Fonseca](https://github.com/GoncaloFonseca0)
+- [Nélia Fernandes](https://github.com/nfernandes89)
