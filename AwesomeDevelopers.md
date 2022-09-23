@@ -12,3 +12,4 @@
 - [Augusto Albuquerque](https://github.com/Augustoafo)
 - [Ágata Mascarenhas 🐺](https://github.com/agataxmascarenhas)
 - [Nélia Fernandes](https://github.com/nfernandes89)
+- [Gonçalo Pereira](https://github.com/goncalopereira9)
