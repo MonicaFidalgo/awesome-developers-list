@@ -16,3 +16,4 @@
 - [Renata Vieira](https://github.com/renatagasparino)
 - [Beatriz Sabino ✨](https://github.com/beatriz-sabino)
 - [Ágnes Kuti-Palásthy ](https://github.com/agnesnora)
+- [Arief Sandi Destianto](https://github.com/AriefSandi)
