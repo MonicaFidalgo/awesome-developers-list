@@ -1,4 +1,4 @@
-# **Awesome Web Developers**
+# **Awesome Developers List**
 
 <!-- prettier-ignore-start -->
 
