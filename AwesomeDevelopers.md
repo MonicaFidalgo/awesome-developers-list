@@ -14,4 +14,5 @@
 - [Nélia Fernandes](https://github.com/nfernandes89)
 - [Gonçalo Pereira](https://github.com/goncalopereira9)
 - [Renata Vieira](https://github.com/renatagasparino)
+- [Beatriz Sabino ✨](https://github.com/beatriz-sabino)
 - [Ágnes Kuti-Palásthy ](https://github.com/agnesnora)
