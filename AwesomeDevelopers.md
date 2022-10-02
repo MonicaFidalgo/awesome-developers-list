@@ -18,3 +18,4 @@
 - [Ágnes Kuti-Palásthy ](https://github.com/agnesnora)
 - [Arief Sandi Destianto](https://github.com/AriefSandi)
 - [Harshit Joshi](https://github.com/Harshit-3905)
+- [Saul](https://github.com/SaulMiquilena)
