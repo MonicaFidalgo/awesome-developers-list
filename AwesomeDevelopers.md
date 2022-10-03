@@ -20,3 +20,4 @@
 - [Harshit Joshi](https://github.com/Harshit-3905)
 - [Saul](https://github.com/SaulMiquilena)
 - [Anand](https://github.com/mr-Hacker-Boy)
+- [Vishal P](https://github.com/vishalpattnaik)
