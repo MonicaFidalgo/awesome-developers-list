@@ -21,4 +21,4 @@
 - [Saul](https://github.com/SaulMiquilena)
 - [Anand](https://github.com/mr-Hacker-Boy)
 - [Vishal P](https://github.com/vishalpattnaik)
-- [Sanket deol](https://github.com/vishalpattnaik)
+- [Sanket deol](https://github.com/PANDASONU123)
