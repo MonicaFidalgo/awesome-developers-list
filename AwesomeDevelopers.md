@@ -26,3 +26,4 @@
 - [Omosaye Moses Iseoluwa](https://github.com/theselaw)
 - [Sandeep Velayudhan](https://github.com/Sanu1999)
 - [Sanket deol](https://github.com/PANDASONU123)
+- [Kanishk Bhadauria 🦄](https://github.com/kxnyshk)
