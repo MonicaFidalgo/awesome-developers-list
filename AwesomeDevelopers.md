@@ -28,3 +28,4 @@
 - [Sanket deol](https://github.com/PANDASONU123)
 - [Kanishk Bhadauria 🦄](https://github.com/kxnyshk)
 - [Ugochukwu Benjamin](https://github.com/Benji918)
+- [Angel Mba](https://github.com/Michelle031)
