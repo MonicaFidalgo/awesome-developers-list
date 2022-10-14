@@ -30,3 +30,4 @@
 - [Ugochukwu Benjamin](https://github.com/Benji918)
 - [Ammaarah Khan](https://github.com/ayrhkhan)
 - [Angel Mba](https://github.com/Michelle031)
+- [sai chait](https://github.com/sai9949)
