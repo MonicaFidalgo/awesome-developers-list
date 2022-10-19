@@ -34,3 +34,4 @@
 - [krishna sai](https://github.com/krishnasaichaitanya215)
 - [Phillip Lackner](https://github.com/philipplackner)
 - [Samyak Jain](https://github.com/samyakjain26)
+- [RaquelDeBiase](https://github.com/raqueldebiase)
