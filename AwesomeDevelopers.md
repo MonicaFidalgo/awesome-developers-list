@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Mónica Fidalgo 🦊](https://twitter.com/coding_mermaid)
+- [Arya Sharma](https://github.com/Aryasharma001)
 - [Tiago - Full Stack Designer](https://github.com/rodriguestul)
 - [Rita Cavalheiro](https://ritacavalheiro-portfolio.netlify.app/)
 - [Niño Arenas](https://github.com/ntb-arenas)
