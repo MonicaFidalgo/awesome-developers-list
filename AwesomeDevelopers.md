@@ -18,7 +18,7 @@
 - [Beatriz Sabino ✨](https://github.com/beatriz-sabino)
 - [Ágnes Kuti-Palásthy ](https://github.com/agnesnora)
 - [Arief Sandi Destianto](https://github.com/AriefSandi)
-- [Samyak Agrawal](https://github.com/samyak260702
+- [Samyak Agrawal](https://github.com/samyak260702)
 - [Harshit Joshi](https://github.com/Harshit-3905)
 - [Saul](https://github.com/SaulMiquilena)
 - [Anand](https://github.com/mr-Hacker-Boy)
@@ -37,3 +37,4 @@
 - [Phillip Lackner](https://github.com/philipplackner)
 - [Samyak Jain](https://github.com/samyakjain26)
 - [Yash agrawal](https://github.com/intfinder123)
+- [Saksham Garg](https://github.com/skdzera)
