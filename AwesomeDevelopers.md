@@ -39,3 +39,4 @@
 - [Yash agrawal](https://github.com/intfinder123)
 - [Saksham Garg](https://github.com/skdzera)
 - [Abhijith KR - Web Developer](https://github.com/abhi7745)
+- [Josefine Schaefer - Developer Relations Engineer](https://github.com/josefineschaefer)
