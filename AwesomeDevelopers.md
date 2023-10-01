@@ -43,3 +43,4 @@
 - [Rose Newman 🌱 Javascript & React](https://github.com/rosalie0)
 - [Musa Shedrach - React || Next.js || Tailwind CSS](https://github.com/sheddy450)
 - [Favio Valero - |Front End Developer](https://github.com/favio102/)
+- [Marco Ventura](https://github.com/tdotlanders)
