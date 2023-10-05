@@ -38,6 +38,7 @@
 - [Samyak Jain](https://github.com/samyakjain26)
 - [Yash agrawal](https://github.com/intfinder123)
 - [Saksham Garg](https://github.com/skdzera)
+- [Tiago PL - Full Stack Developer](https://github.com/tiagopl88)
 - [Abhijith KR - Web Developer](https://github.com/abhi7745)
 - [Josefine Schaefer - Developer Relations Engineer](https://github.com/josefineschaefer)
 - [Rose Newman 🌱 Javascript & React](https://github.com/rosalie0)
