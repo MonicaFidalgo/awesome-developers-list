@@ -46,3 +46,4 @@
 - [Favio Valero - |Front End Developer](https://github.com/favio102/)
 - [Ruben Roque - Full Stack Developer](https://github.com/0xRoque/)
 - [Daniele Silva - ||Full Stack Web Developer Edit](https://github.com/DanielePSilva)
+- [Marco Ventura](https://github.com/tdotlanders)
