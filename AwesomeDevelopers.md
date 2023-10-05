@@ -47,3 +47,4 @@
 - [Ruben Roque - Full Stack Developer](https://github.com/0xRoque/)
 - [Daniele Silva - ||Full Stack Web Developer Edit](https://github.com/DanielePSilva)
 - [Marco Ventura](https://github.com/tdotlanders)
+- [André Alves - Vue|React Developer](https://github.com/Pinotas/)
