@@ -48,3 +48,4 @@
 - [Daniele Silva - ||Full Stack Web Developer Edit](https://github.com/DanielePSilva)
 - [Marco Ventura](https://github.com/tdotlanders)
 - [André Alves - Vue|React Developer](https://github.com/Pinotas/)
+- [Marina Sampaio - Full Stack Developer](https://github.com/masampaiosp)
